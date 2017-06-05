@@ -1,5 +1,7 @@
 # prime-solo-sq
-first SQL assignment
+Assignment that introduced us to making SQL queries in Postico.
+
+---
 
 Performed each of these tasks on the provided list in Postico.
 
